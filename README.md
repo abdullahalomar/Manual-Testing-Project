@@ -4,6 +4,8 @@
 
 ---
 
+## Project Link: (https://docs.google.com/spreadsheets/d/1C6SQ2Yao0hX6OkdmoVMfV_nTvcmdgYg3/edit?gid=212710091#gid=212710091)
+
 ## 📘 Project Overview
 
 The **EonBazar Manual Testing Project** is a structured Quality Assurance (QA) initiative focused on testing the **EonBazar e-commerce web application**.  
