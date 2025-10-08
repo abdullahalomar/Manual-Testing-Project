@@ -1,6 +1,6 @@
 # 🧪 EonBazar Manual Testing Project — Bug Report
 
-![Bug Reporting Banner](https://images.openai.com/thumbnails/url/VDbeBXicu5meUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw72Cswz9yyMsIzyKfAKC80vt0x3SjWo9AgsD0oyNDNNMopKdDL1M_DwSDJwVCu2NTQAAPy_I-g)
+![Bug Reporting Banner](./Bug-report/bug-report.png)
 
 ---
 
