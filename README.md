@@ -1,6 +1,7 @@
-# 🧪 EonBazar Manual Testing Project — Bug Report
+# 🧪 EonBazar Manual Testing Project — Mind Map
 
-![Bug Reporting Banner](./Bug-report/bug-report.png)
+### Mind Map:
+![Mind Map](./mind-map/Eonbazar.jpg)
 
 ---
 
@@ -123,8 +124,8 @@ User should be redirected to the dashboard after successful login.
 ![Test Report](./Test-report/test-summary.png)
 ![Test Report](./Test-report/test-case-report-2.png)
 
-### Mind Map:
-![Mind Map](./mind-map/Eonbazar.jpg)
+### Bug Report:
+![Bug Report](./Bug-report/bug-report.png)
 
 ### Mind Matrix:
 ![Test Matrix](./test-matrix.png)
