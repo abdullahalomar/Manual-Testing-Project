@@ -113,15 +113,23 @@ User should be redirected to the dashboard after successful login.
 ### Severity / Priority  
 - Severity: Major  
 - Priority: High  
-
-### Screenshot  
+ 
+### Test Case:
 ![Test Case](./Test-Case/test-case.png)
+
+### Test Report:
 ![Test Report](./Test-report/test-case-report.png)
 ![Test Report](./Test-report/test-summary-total.png)
 ![Test Report](./Test-report/test-summary.png)
 ![Test Report](./Test-report/test-case-report-2.png)
+
+### Mind Map:
 ![Mind Map](./mind-map/Eonbazar.jpg)
+
+### Mind Matrix:
 ![Test Matrix](./test-matrix.png)
-![Test Matrix](./test-scenario.png)
+
+### Test Scenario:
+![Test Scenario](./test-scenario.png)
 
 
